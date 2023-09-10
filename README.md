@@ -53,11 +53,11 @@ Copy the JSON down and paste in repl then fill the vars
 ```
 {
   "SESSION_ID": "ID-Here",
-  "OWNER_NUMBER": "91xxxxxxxxxx",
-  "OWNER_NAME": "EREN JEAGER",
+  "OWNER_NUMBER": "92xxxxxxxxx",
+  "OWNER_NAME": "QASIM JIHO",
   "OPENAI_API_KEY": "null",
-  "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
-  "PACK_INFO": "Sam;Pandey",
+  "MONGODB_URI": "mongodb+srv://qas:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
+  "PACK_INFO": "Qasim;jiho",
   "PREFIX": "."
    
 }
