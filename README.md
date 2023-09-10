@@ -1,5 +1,5 @@
 <div align="center">
-    ⏬<b>Queen NITHYA</b>⏬</b>
+    ⏬<b>Qasim Jiho</b>⏬</b>
 
   
 <div align="center">
@@ -9,11 +9,11 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+QUEEN+NITHYA+WHATSAPP+BOT)](https://git.io/typing-svg)
 
    <p align="center">
-<a href="https://github.com/DileepaTech">
-    <img src="https://telegra.ph/file/e737a6573663dcd99f96c.jpg" width="700px">
+<a href="https://github.com/Qasim">
+    <img src="" width="700px">
   </a>
   
-## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="http://nithyabot.42web.io/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
+## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="http://qasimjiho.42web.io/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
     
 1. ***Get [SESSION-ID](https://replit.com/@yasasdileepara1/QUEEN-NITHYA-MD?output%20only=1&lite=1#index.js) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Click [FORK](https://github.com/DileepaTech/Queen-Nithya-MD/fork)***
