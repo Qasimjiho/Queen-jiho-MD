@@ -1,5 +1,5 @@
 {
-               "name": "Nithya",
+               "name": "Qasimjiho",
                "version": "0.0.2",
                "description": "Multi device whatsapp bot ",
                "main": "lib/client.js",
@@ -9,7 +9,7 @@
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name dileepa",
                 "stop": "pm2 stop dileepa"
                 },
-               "author": "dileepa",
+               "author": "Qasimjiho",
               "dependencies": {
                        "@whiskeysockets/baileys": "git+https://github.com/nipuna15/baileys", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -72,10 +72,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/DileepaTech/Queen-Nithya-MD.git"
+                 "url": "git+https://github.com/QASIMJIHO/QASIMJIHO-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/DileepaTech/Queen-Nithya-MD/issues"
+                 "url": "https://github.com/QASIM-MD/issues"
                   },
-                 "homepage": "https://github.com/DileepaTech/Queen-Nithya-MD#readme"
+                 "homepage": "https://github.com/Qasimjiho-MD#readme"
                   }
