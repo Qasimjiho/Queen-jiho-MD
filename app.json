@@ -1,7 +1,7 @@
 { 
    "name": "QASIM", 
    "description": "A Whatsapp md bot built in NodeJs to make experience better", 
-   "logo": "https://telegra.ph/file/e737a6573663dcd99f96c.jpg", 
+   "logo": "https://i.imgur.com/7WApLO7.jpeg", 
    "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"], 
    "success_url": "/", 
    "stack": "container", 
