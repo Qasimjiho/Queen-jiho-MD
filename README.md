@@ -10,7 +10,7 @@
 
    <p align="center">
 <a href="https://github.com/Qasim">
-    <img src="" width="700px">
+    <img src="https://i.imgur.com/7WApLO7.jpeg" width="700px">
   </a>
   
 ## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="http://qasimjiho.42web.io/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
